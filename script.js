@@ -1,6 +1,6 @@
 var firstName = "Diego";
 var lastName = "Cepeda";
-var monthsOfStudy = 2;
-var goal = "pursue a career in web development";
+var monthsOfStudy = 4;
+var goal = "finish the Year Up program with the best knowledge and be able to put it into practice in technology companies.";
 
 
